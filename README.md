@@ -19,11 +19,11 @@ In Market Basket Analysis, association rules are used to predict the likelihood 
 (WordPress 2021)
 
 <h3>Acknowledge Sources: </h3>
-Towards Data Science. (2021, November 17) Market Basket Analysis. [Web Site].  Retrieved from 
+<p>Towards Data Science. (2021, November 17) Market Basket Analysis. [Web Site].  Retrieved from 
 https://towardsdatascience.com/market-basket-analysis-on-online-retail-data-24ee7214a762
 
-TechTarget. (2021, November 17) Market Basket Analysis. [Web Site].  Retrieved from
+<p>TechTarget. (2021, November 17) Market Basket Analysis. [Web Site].  Retrieved from
 https://searchcustomerexperience.techtarget.com/definition/market-basket-analysis
 
-WordPress. (2021, November 17) Market Basket Analysis. [Web Site].  Retrieved from
+<p>WordPress. (2021, November 17) Market Basket Analysis. [Web Site].  Retrieved from
 https://sarahtianhua.wordpress.com/portfolio/market-basket-analysis/
