@@ -17,3 +17,13 @@ In Market Basket Analysis, association rules are used to predict the likelihood 
 <h3>Assumption:</h3>
 <p>The underlying assumption in Market Basket Analysis is that joint occurrence of two or more products in most baskets implies that these products are complements in the purchase. Therefore, the purchase of one goes lead to the purchase of others; in this study.
 (WordPress 2021)
+
+<h3>Acknowledge Sources: </h3>
+Towards Data Science. (2021, November 17) Market Basket Analysis. [Web Site].  Retrieved from 
+https://towardsdatascience.com/market-basket-analysis-on-online-retail-data-24ee7214a762
+
+TechTarget. (2021, November 17) Market Basket Analysis. [Web Site].  Retrieved from
+https://searchcustomerexperience.techtarget.com/definition/market-basket-analysis
+
+WordPress. (2021, November 17) Market Basket Analysis. [Web Site].  Retrieved from
+https://sarahtianhua.wordpress.com/portfolio/market-basket-analysis/
