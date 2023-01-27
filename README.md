@@ -1,6 +1,8 @@
 # Market Basket Analysis
 
 <h3>Part I: Research Question</h3>
+<a href="https://doi.org/10.5281/zenodo.7553011"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7553011.svg" alt="DOI"></a>
+
 <p>1.	Can we use the Market Basket Analysis model to identify the key associations of customer purchases?
 <p>2.	This study aims to prepare data and use the Market Basket Analysis model to analyze customers' purchases and identify the key associations, providing recommendations.
 
